@@ -1,8 +1,6 @@
-# 08-5. 심화 – 어떤 글자부터 고를까?
-
 단어 목록에서 각 글자가 들어 있는 단어 수를 딕셔너리로 세어 확률로 비교합니다. 동물 단어 64개 중 `a`는 32개(50.0%), `x`는 1개(1.6%)에 들어 있습니다.
 
-내려받기: [hangman_letter_frequency.py](__REPO_URL__/raw/main/downloads/hangman_letter_frequency.py)
+내려받기: [hangman_letter_frequency.py](https://cdn.jsdelivr.net/gh/nabilera1/highschool_unit3_programming@main/downloads/hangman_letter_frequency.py)
 
 ```python
 # ================================================================

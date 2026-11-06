@@ -1,8 +1,6 @@
-# 08-2. 함수 버전 (6차시)
-
 기본 버전의 코드를 하는 일별로 함수로 나누고 `main()` 구조로 정리했습니다. 입력 검증 함수 `알파벳한글자리턴()`이 포함되어 있습니다.
 
-내려받기: [hangman_2_function.py](__REPO_URL__/raw/main/downloads/hangman_2_function.py)
+내려받기: [hangman_2_function.py](https://cdn.jsdelivr.net/gh/nabilera1/highschool_unit3_programming@main/downloads/hangman_2_function.py)
 
 ```python
 # ================================================================

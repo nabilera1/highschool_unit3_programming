@@ -1,5 +1,3 @@
-# 06. 학생 산출물 예시
-
 > 아래는 행맨 게임을 확장한 ○○모둠의 산출물 예시입니다.
 
 ## 1. 문제 분해 결과
@@ -13,7 +11,7 @@
 
 ## 2. 프로그램 코드
 
-전체 코드는 **08-3. 산출물 예시 – 확장 버전** 페이지와 [hangman_3_extended.py](__REPO_URL__/raw/main/downloads/hangman_3_extended.py)에서 볼 수 있습니다. (행맨 그림 부분 생략)
+전체 코드는 **08-3. 산출물 예시 – 확장 버전** 페이지와 [hangman_3_extended.py](https://cdn.jsdelivr.net/gh/nabilera1/highschool_unit3_programming@main/downloads/hangman_3_extended.py)에서 볼 수 있습니다. (행맨 그림 부분 생략)
 
 ```python
 # 행맨 게임 (산출물 예시) - 딕셔너리(주제별 단어·뜻, 점수), 2차원 리스트(난이도표·키보드판·기록표), 중첩 반복, 함수

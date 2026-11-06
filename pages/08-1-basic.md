@@ -1,8 +1,6 @@
-# 08-1. 기본 버전 (5차시)
-
 함수 없이 위에서 아래로 실행되는 코드입니다. 7차시 테스트 활동을 위해 **입력 검사를 일부러 넣지 않았습니다.** 대문자 `A`, 숫자 `1`, 두 글자 `ab`, 단어 전체를 입력해 보세요.
 
-내려받기: [hangman_1_basic.py](__REPO_URL__/raw/main/downloads/hangman_1_basic.py)
+내려받기: [hangman_1_basic.py](https://cdn.jsdelivr.net/gh/nabilera1/highschool_unit3_programming@main/downloads/hangman_1_basic.py)
 
 ```python
 # ================================================================

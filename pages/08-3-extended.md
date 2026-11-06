@@ -1,8 +1,6 @@
-# 08-3. 산출물 예시 – 확장 버전
-
 딕셔너리(주제별 단어와 뜻, 점수)와 2차원 리스트(난이도표, 키보드판, 기록표), 중첩 반복문을 사용한 확장 버전입니다.
 
-내려받기: [hangman_3_extended.py](__REPO_URL__/raw/main/downloads/hangman_3_extended.py)
+내려받기: [hangman_3_extended.py](https://cdn.jsdelivr.net/gh/nabilera1/highschool_unit3_programming@main/downloads/hangman_3_extended.py)
 
 ```python
 # ================================================================

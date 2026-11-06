@@ -1,8 +1,6 @@
-# 08-4. 빈칸 채우기 (보충)
-
 진도가 느린 학생을 위한 연습 코드입니다. 빈칸 ①~⑩을 채운 뒤 실행해 보세요. 빈칸이 있는 상태로는 실행되지 않습니다.
 
-내려받기: [hangman_fill_in_blanks.py](__REPO_URL__/raw/main/downloads/hangman_fill_in_blanks.py)
+내려받기: [hangman_fill_in_blanks.py](https://cdn.jsdelivr.net/gh/nabilera1/highschool_unit3_programming@main/downloads/hangman_fill_in_blanks.py)
 
 ```python
 # ================================================================
@@ -135,4 +133,4 @@ main()
 
 ```
 
-정답 파일: [hangman_fill_in_blanks_answer.py](__REPO_URL__/raw/main/downloads/hangman_fill_in_blanks_answer.py)
+정답 파일: [hangman_fill_in_blanks_answer.py](https://cdn.jsdelivr.net/gh/nabilera1/highschool_unit3_programming@main/downloads/hangman_fill_in_blanks_answer.py)
